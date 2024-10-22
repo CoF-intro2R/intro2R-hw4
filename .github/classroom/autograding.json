@@ -1,0 +1,10 @@
+{
+  "tests": [
+    {
+      "name": "Test directory structure",
+      "run": "pytest test_autograde.py::test_dir_struc",  
+      "timeout": 10,  
+      "points": 1 
+    }
+  ]
+}
